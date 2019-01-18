@@ -43,4 +43,5 @@ The application uses machine learning techniques to predict the availability of 
 ##### Evaluation of RNN-LSTM N=Model:
 ![alt text](https://github.com/ishwaryav/Study-Area-Recommendation-Using-Network-Log-Analytics/blob/master/RNN_Results.png)
 
+##### Evaluation Metric scores of RNN-LSTM N=Model:
 ![alt texr](https://github.com/ishwaryav/Study-Area-Recommendation-Using-Network-Log-Analytics/blob/master/Evaluation%20Results.png)
